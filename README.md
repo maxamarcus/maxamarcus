@@ -1,4 +1,4 @@
 # Max Marcus
-🍎 Recent CS grad in New York. <br/>
+Software developer in New York City 🍎
 
-Currently working on serverside web apps, command line tools, and a Lox language interpreter.
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
